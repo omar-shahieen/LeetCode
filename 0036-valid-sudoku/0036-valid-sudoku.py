@@ -2,36 +2,21 @@ class Solution:
 
     def isValidSudoku(self, board: List[List[str]]) -> bool:
 
-        def dfs(i,j):
-            row = set()
-            col = set()
-            grid = set()
-            for k in range(9):
-                if board[k][j] in col : 
-                    return False
-                elif board[k][j] != '.' :
-                    col.add(board[k][j])
-
-                if board[i][k] in row : 
-                    return False
-                elif  board[i][k] != '.':
-                    row.add(board[i][k])
-
-            shiftRow = i//3
-            shiftCol = j//3
-            for u in range(shiftRow * 3 , (shiftRow+1) *3):
-                for v in range(shiftCol * 3 , (shiftCol+1) *3): 
-                    if board[u][v] in grid : 
-                        return False
-                    elif  board[u][v] != '.':
-                        grid.add(board[u][v])
-
-            return True
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        grids = [set() for _ in range(9)]
 
         for i in range (9):
             for j in range(9):
-                if not dfs(i,j):
+                if board[i][j] == '.':
+                    continue
+                gridNo = j//3 + (i//3)*3
+                if board[i][j]  in rows[i] or board[i][j] in cols[j] or board[i][j] in grids[gridNo]:
                     return False
+                rows[i].add(board[i][j])   
+                cols[j].add(board[i][j])   
+                grids[gridNo].add(board[i][j])   
+
 
         return True
             
