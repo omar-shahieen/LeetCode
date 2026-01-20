@@ -8,14 +8,15 @@ class Solution:
 
         for i in range (9):
             for j in range(9):
-                if board[i][j] == '.':
+                num = board[i][j]
+                if num == '.':
                     continue
-                gridNo = j//3 + (i//3)*3
-                if board[i][j]  in rows[i] or board[i][j] in cols[j] or board[i][j] in grids[gridNo]:
+                gridIdx = j//3 + (i//3)*3
+                if num  in rows[i] or num in cols[j] or num in grids[gridIdx]:
                     return False
-                rows[i].add(board[i][j])   
-                cols[j].add(board[i][j])   
-                grids[gridNo].add(board[i][j])   
+                rows[i].add(num)   
+                cols[j].add(num)   
+                grids[gridIdx].add(num)   
 
 
         return True
