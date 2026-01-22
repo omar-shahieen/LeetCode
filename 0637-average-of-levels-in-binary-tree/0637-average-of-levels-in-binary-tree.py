@@ -12,13 +12,13 @@ class Solution:
         q.append(root)
 
         while q : 
-            size = len(q)
-            sum = 0
+            lvl_size = len(q)
+            lvl_sum = 0
 
-            for _ in range(size):
+            for _ in range(lvl_size):
 
                 node = q.popleft()
-                sum += node.val
+                lvl_sum += node.val
 
                 if node.left:
                     q.append(node.left)
@@ -26,6 +26,6 @@ class Solution:
                 if node.right :
                     q.append(node.right)
 
-            res.append( sum / size)
+            res.append( lvl_sum / lvl_size)
 
         return res 
