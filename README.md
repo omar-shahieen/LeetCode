@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/o064/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/o064/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/o064/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/o064/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/o064/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/o064/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/o064/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/o064/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/o064/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/o064/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/o064/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/o064/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/o064/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/o064/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/o064/LeetCode-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/o064/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
