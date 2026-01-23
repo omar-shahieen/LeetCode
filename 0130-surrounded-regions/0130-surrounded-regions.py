@@ -3,30 +3,46 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        m = len(board) # rows 
-        n = len(board[0]) # cols 
+        """
+        walk through the edges if you can reach any 'o' from the edge replace with'#'
+        after that walk through all the grapgh and replace # with o and o with X
+        """
+        if not board or not board[0]:
+            return
 
-        def dfs(i , j) : 
-            if i < 0  or j < 0  or i >= m or j >= n or  board[i][j] != 'O':
+
+        n= len(board)
+        m = len(board[0])
+
+
+        def dfs(i , j):
+            if i < 0 or j < 0 or i >= n or j >= m :
                 return 
-            board[i][j] = '#'
-            dfs(i+1,j)
-            dfs(i-1,j)
-            dfs(i,j + 1)
-            dfs(i,j - 1)
+            if board[i][j] == 'O' :
+                 board[i][j] = '#'
+            else :
+                return 
 
-        for i in range(m):
-            dfs(i,0)
-            dfs(i,n-1)
-        for j in range(n):
+            for di , dj in [(1,0) , (-1,0) , (0,1) , (0,-1)]:
+                dfs(i + di , j + dj )
+
+        # first and last col
+        for i in range(n):
+            dfs(i , 0)
+            dfs(i, m-1)
+
+
+        # first and last row
+        for j in range(m):
             dfs(0,j)
-            dfs(m-1,j)
-        for i in range(m):
-            for j in range(n):
-                if board[i][j] == '#':
-                    board[i][j] = 'O'
-                elif board[i][j] == 'O':
+            dfs(n-1,j)
+
+        # Flip captured regions and restore border-connected regions
+        for i in range(n):
+            for j in range(m):
+                if board[i][j] == 'O' : # surrounded
                     board[i][j] = 'X'
-                
+                elif board[i][j] == '#': # border connected
+                    board[i][j] = 'O'
 
         
