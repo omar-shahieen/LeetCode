@@ -1,30 +1,41 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        NOT_VISITED = 0 
-        VISITING = 1
-        VISITED =2 
+        """
+        if there is back edge return []
+        apply topological sort
+        """
+
+        NOT_VISITED , VISITING , VISITED = 0 , 1 ,2 
         visited = [NOT_VISITED] * numCourses
-        res =[]
-        courses = prerequisites
-        # adjancy list
         adj = defaultdict(list)
-        for a,b in courses :
+
+        for a, b in prerequisites :
             adj[b].append(a)
-        def dfs(node):
-            if visited[node] == VISITING:
-                return False
-            if visited[node] == VISITED:
-                return True
-            visited[node] = VISITING
-            for E in adj[node]:
+
+
+        res = []
+
+        def dfs(v):
+            if visited[v] == VISITING : return False
+            if visited[v] == VISITED : return True
+
+            visited[v] = VISITING
+
+            for E in adj[v]:
                 if not dfs(E):
                     return False
-            visited[node] = VISITED
-            res.insert(0,node)
+
+
+            res.insert(0,v)
+            visited[v] = VISITED
+
             return True
-        for v in range(numCourses):
-            if not dfs(v):
-                return []
-        return res            
             
 
+
+
+        for v in range(numCourses):
+           if not dfs(v):
+                return []
+
+        return res
