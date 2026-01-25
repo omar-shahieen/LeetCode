@@ -26,7 +26,7 @@ class Solution:
                     return False
 
 
-            res.insert(0,v)
+            res.append(v)
             visited[v] = VISITED
 
             return True
@@ -38,4 +38,4 @@ class Solution:
            if not dfs(v):
                 return []
 
-        return res
+        return res[::-1]
