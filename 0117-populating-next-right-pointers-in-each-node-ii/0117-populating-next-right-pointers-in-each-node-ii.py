@@ -19,11 +19,13 @@ class Solution:
 
         while q : 
             size = len(q)
+            prev = None
             for i in range(size):
                 node  = q.popleft()
-                nextNode = q[0] if i < size - 1 else None
-
-                node.next = nextNode
+                
+                if prev:
+                    prev.next = node
+                prev = node
 
                 if node.left:
                     q.append(node.left)
