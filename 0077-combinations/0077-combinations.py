@@ -16,16 +16,19 @@ class Solution:
         comb = []
 
         def backtrack(start):
+            if len(comb) + (n - start + 1) < k :
+                return
+
 
             if len(comb) == k :
                 res.append(comb[:])
                 return
 
 
-            for i in range(start,n):
-                comb.append(i+1)
-                backtrack(i + 1)
+            for i in range(start,n + 1):
+                comb.append(i)
+                backtrack(i +1)
                 comb.pop()
 
-        backtrack(0)
+        backtrack(1)
         return res 
