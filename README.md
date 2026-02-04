@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/o064/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/o064/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/o064/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/o064/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/o064/LeetCode-Problems/tree/master/0079-word-search) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/o064/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/o064/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/o064/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/o064/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/o064/LeetCode-Problems/tree/master/0127-word-ladder) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/o064/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/o064/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/o064/LeetCode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/o064/LeetCode-Problems/tree/master/0130-surrounded-regions) |
