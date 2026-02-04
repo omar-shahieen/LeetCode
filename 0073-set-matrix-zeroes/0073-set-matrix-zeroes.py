@@ -15,11 +15,12 @@ class Solution:
                     zero_rows.add(i)
                     zero_cols.add(j)
 
-        for i in range(m):
+        for zero_row in zero_rows:
             for j in range(n):
-                if i in zero_rows or j in zero_cols :
-                    matrix[i][j] = 0 
-
+                matrix[zero_row][j]= 0
+        for zero_col in zero_cols:
+            for i in range(m):
+                matrix[i][zero_col]= 0
         
                     
 
