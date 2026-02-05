@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/o064/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/o064/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/o064/LeetCode-Problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/o064/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/o064/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/o064/LeetCode-Problems/tree/master/0056-merge-intervals) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/o064/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/o064/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/o064/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/o064/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/o064/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/o064/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/o064/LeetCode-Problems/tree/master/0079-word-search) |
