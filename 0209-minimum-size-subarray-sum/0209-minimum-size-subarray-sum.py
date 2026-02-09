@@ -1,26 +1,10 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        """
-        minimum  = inf
-        sum = nums[0] 
-        l = 0  , r = 1 
-        while r < n 
-            sum = sum + right
-
-            while sum >= target 
-                minimum = min(minimum , r - l  + 1)
-                sum -= left 
-                l ++ 
-            
-            r ++
-        """
 
         minimum = float('inf')
-        l, r =0 ,1 
-        sum = nums[0]
+        l, r =0 ,0
+        sum = 0
 
-        if sum >= target :
-            minimum = 1
         while r < len(nums) :
             sum += nums[r]
 
