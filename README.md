@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/o064/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/o064/LeetCode-Problems/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/o064/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/o064/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 ## String
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/o064/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/o064/LeetCode-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/o064/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/o064/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/o064/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/o064/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/o064/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Database
