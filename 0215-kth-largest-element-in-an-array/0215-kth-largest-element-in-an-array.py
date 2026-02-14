@@ -8,6 +8,6 @@ class Solution:
                 heapq.heappop(min_heap)
 
 
-        return heapq.heappop(min_heap)
+        return min_heap[0]
  
 
