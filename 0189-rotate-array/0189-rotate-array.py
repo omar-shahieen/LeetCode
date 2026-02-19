@@ -3,11 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        rotated_Arr = [0] * n
+        lastNums = nums[:]
+        n= len(nums)
         for i in range(n):
-            rotated_Arr[(i+k)%n] = nums[i]
-        nums[:] = rotated_Arr
-        return 
-
-        
+            nums[(i+k)%n] = lastNums[i] 
