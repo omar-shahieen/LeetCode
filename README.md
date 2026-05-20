@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/o064/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/o064/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/o064/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/o064/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/o064/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/o064/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/o064/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/o064/LeetCode-Problems/tree/master/0876-hand-of-straights) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/o064/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
