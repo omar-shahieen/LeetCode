@@ -1,17 +1,11 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        n = len(nums)
-        candidate = nums[0]
-        count = 1
-        for num in nums[1:] :
-            if num != candidate :
-                count -=1 
-            else :
-                count += 1
-            if count == 0 :
-                candidate = num 
-                count = 1
+        freq = defaultdict(int)
+        for n in nums:
+            freq[n] +=1 
         
-            
+        for n , f in freq.items():
+            if f >= len(nums)/2:
+                return n 
 
-        return candidate
+        return -1
