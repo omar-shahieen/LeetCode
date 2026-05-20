@@ -1,12 +1,22 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        k =  1
-        counts = defaultdict(int)
-        counts[nums[0]] += 1 
-        for j in range(1 , len(nums)):
-            if  counts[nums[j]] < 2 : 
-                nums[k] =nums[j]
-                k += 1
-                counts[nums[j]] += 1
-        return k
+        """
+        [a,b,c]
+        c =b and c!= a replace
+        c = a = b  start +1 
+        c != a c !=b and a= b  skip
+        c != a c !=b and a != b skip
+
+
+        """
+        n = len(nums)
+        if n== 2 :
+            return 2 
         
+        start = 1
+        for i in range(2,n):
+            if (nums[i] != nums[start] and nums[i] != nums[start -1 ]) or (nums[i] == nums[start] and nums[i] != nums[start -1 ]):
+                start += 1
+                nums[start ] = nums[i]
+
+        return start+1
