@@ -15,7 +15,7 @@ class Solution:
         
         start = 1
         for i in range(2,n):
-            if (nums[i] != nums[start] and nums[i] != nums[start -1 ]) or (nums[i] == nums[start] and nums[i] != nums[start -1 ]):
+            if nums[i] != nums[start-1] :
                 start += 1
                 nums[start ] = nums[i]
 
