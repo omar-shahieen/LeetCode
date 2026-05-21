@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/o064/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/o064/LeetCode-Problems/tree/master/1127-last-stone-weight) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/o064/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/o064/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/o064/LeetCode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Binary Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/o064/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/o064/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/o064/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/o064/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/o064/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/o064/LeetCode-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/o064/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Combinatorics
 |  |
 | ------- |
