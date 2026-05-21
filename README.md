@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/o064/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/o064/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/o064/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/o064/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/o064/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/o064/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/o064/LeetCode-Problems/tree/master/0079-word-search) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/o064/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/o064/LeetCode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/o064/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/o064/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/o064/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/o064/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/o064/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/o064/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/o064/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/o064/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/o064/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/o064/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Prefix Sum
 |  |
 | ------- |
