@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/o064/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/o064/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/o064/LeetCode-Problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/o064/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/o064/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/o064/LeetCode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/o064/LeetCode-Problems/tree/master/0048-rotate-image) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/o064/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/o064/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/o064/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/o064/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/o064/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/o064/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/o064/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/o064/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/o064/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/o064/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/o064/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/o064/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/o064/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/o064/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/o064/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/o064/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/o064/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/o064/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/o064/LeetCode-Problems/tree/master/0055-jump-game) |
