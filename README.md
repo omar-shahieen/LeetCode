@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/o064/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/o064/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/o064/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/o064/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/o064/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/o064/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/o064/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/o064/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/o064/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/o064/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/o064/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/o064/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/o064/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/o064/LeetCode-Problems/tree/master/0355-design-twitter) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/o064/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/o064/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Iterator
 |  |
 | ------- |
@@ -651,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/o064/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/o064/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
