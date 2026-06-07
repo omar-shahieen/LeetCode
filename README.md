@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/o064/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0518-coin-change-ii](https://github.com/o064/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/o064/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/o064/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/o064/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/o064/LeetCode-Problems/tree/master/0876-hand-of-straights) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/o064/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/o064/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/o064/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/o064/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/o064/LeetCode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
