@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/o064/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/o064/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/o064/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/omar-shahieen/LeetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/o064/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/o064/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/o064/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/o064/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/omar-shahieen/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/o064/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/o064/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/omar-shahieen/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/o064/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
