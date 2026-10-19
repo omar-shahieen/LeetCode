@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/o064/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/o064/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omar-shahieen/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/o064/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/o064/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/omar-shahieen/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/o064/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/o064/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omar-shahieen/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/o064/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/o064/LeetCode-Problems/tree/master/0948-sort-an-array) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/o064/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/o064/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/o064/LeetCode-Problems/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/omar-shahieen/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/o064/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/o064/LeetCode-Problems/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/o064/LeetCode-Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
