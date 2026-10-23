@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/o064/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/o064/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/o064/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omar-shahieen/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/o064/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/o064/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/o064/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/o064/LeetCode-Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/o064/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/omar-shahieen/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omar-shahieen/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0383-ransom-note](https://github.com/o064/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/o064/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/o064/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/o064/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/omar-shahieen/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omar-shahieen/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/o064/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/o064/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/o064/LeetCode-Problems/tree/master/0355-design-twitter) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/o064/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/o064/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/omar-shahieen/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/omar-shahieen/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Union Find
 |  |
 | ------- |
